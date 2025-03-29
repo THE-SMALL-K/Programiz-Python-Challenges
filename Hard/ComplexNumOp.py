@@ -40,9 +40,8 @@ def Substract_im(im_num1, im_num2):
     diff_im = im_num1 - im_num2
     return diff_im
 '''
-def Multiply(real_num1, im_num1,real_num2, im_num2):
+def Multiply_real(real_num1, im_num1,real_num2, im_num2):
     multi_real = real_num1 - real_num2
-    multi_im = im_num1 - im_num2
 
 def Divide(real_num1, im_num1,real_num2, im_num2):
     divide_real = real_num1 - real_num2
